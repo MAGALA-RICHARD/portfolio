@@ -16,3 +16,4 @@ Welcome to Richard Magala's home page!
    skills_experiences.rst
    pubs.rst
    leader.rst
+   academic_achievements.rst
