@@ -1,12 +1,16 @@
 LEADERSHIP EXPERIENCE
 ====================================
-2002/2003	Information and debate prefect Bupadhengo Primary School Kamuli district
-2007-2008	Debate and information prefect-Mt St Johns College Kagoma Jinja district. I coordinated, organized, and chaired debating sessions.
-2009-2010	Head prefect Mt St John's College Kagoma Jinja district. I was the Head of all prefects and assigned tasks to prefects, managed the day-to-day affairs of the students, and also forwarded their grievances to the school administration. I also acted as secretary to the school administration committee on behalf of the students.
-July 2013-July 2013
-	Chairman welfare committee recess term 2013 for forestry students. In charge of day-to-day affairs such as health, food, and nutrition. I managed students' pooled funds to cater to their welfare.
-2013-2014	Speaker Kamuli Makerere University Environmental Students Association (KAMUSA). Chaired meetings of KAMUSA and acted as the liaison officer to the KAMUSA general assembly
-2013-2014	Deputy General Secretary Forestry Association Makerere University (FAMU). Kept records of FAMU, and I deputized the General secretary in her absence.
-2014-2015	Chairman - Makerere University Environmental Students Association (KAMUSA). Chaired meeting of KAMUSA.
-2016	Mobiliser Makerere climate change association
-2024-to present	Students representative IALE. Assist in planning and coordinating student-focused events at IALE-NA conferences, such as student social events, poster sessions, and career panels, Maintain active communication with student members via newsletters, emails, and social media to share relevant opportunities and updates, Participate in IALE-NA board meetings and provide input on student-related policies and initiatives, Help identify potential future student representatives to ensure continuity in student leadership, represent student interests at IALE-NA meetings, conferences, and board discussions.
+
+=====================  ========================================================================================================================================================================================================================================================================
+**Year/Period**        **Leadership Experience**
+=====================  ========================================================================================================================================================================================================================================================================
+**2002/2003**          Information and Debate Prefect – Bupadhengo Primary School, Kamuli District
+**2007–2008**          Debate and Information Prefect – Mt. St. John’s College, Kagoma, Jinja District. Coordinated, organized, and chaired debating sessions.
+**2009–2010**          Head Prefect – Mt. St. John’s College, Kagoma, Jinja District. Led the prefect body, managed student affairs, forwarded grievances to administration, and acted as secretary to the school administration committee.
+**July 2013**          Chairman – Welfare Committee, Recess Term 2013 for Forestry Students. Oversaw student welfare (health, food, nutrition) and managed pooled funds.
+**2013–2014**          Speaker – Kamuli Makerere University Environmental Students Association (KAMUSA). Chaired meetings and served as liaison to the KAMUSA General Assembly.
+**2013–2014**          Deputy General Secretary – Forestry Association Makerere University (FAMU). Maintained records and deputized the General Secretary.
+**2014–2015**          Chairman – Makerere University Environmental Students Association (KAMUSA). Chaired KAMUSA meetings.
+**2016**               Mobiliser – Makerere Climate Change Association.
+**2024–Present**       Student Representative – IALE. Coordinate student-focused events at IALE-NA conferences, communicate with student members, attend board meetings, influence student policy, and support future leadership continuity.
+=====================  ========================================================================================================================================================================================================================================================================
