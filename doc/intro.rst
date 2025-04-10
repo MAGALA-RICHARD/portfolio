@@ -1,4 +1,4 @@
-PERSONAL SUMMARY
+Personal Summary
 ==============================
 .. image:: 040125digital.jpg
    :alt: My profile picture
