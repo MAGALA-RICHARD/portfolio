@@ -8,8 +8,9 @@ Welcome to Richard Magala's Home Page!
    Home <self>
    intro.rst
    academic_background.rst
+   academic_achievements.rst
    activities.rst
    skills_experiences.rst
    pubs.rst
    leader.rst
-   academic_achievements.rst
+
