@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Richard Magala's home page!
-===================================
+====================================================
 
 .. toctree::
    :maxdepth: 2
