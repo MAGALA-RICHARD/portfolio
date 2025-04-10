@@ -1,4 +1,4 @@
-EMPLOYMENT HISTORY
+Employment History
 ==================
 
 - **2021 – Present**
