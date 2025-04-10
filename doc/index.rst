@@ -12,6 +12,7 @@ Welcome to Richard Magala's home page!
 
    Home <self>
    intro.rst
-   leadership.rst
    activities.rst
+   skills_experiences.rst
    pubs.rst
+   leadership.rst
