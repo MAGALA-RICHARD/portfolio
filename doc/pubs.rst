@@ -37,6 +37,9 @@ Cropping a raster by a mask or an Esri polygon shapefile.
 
 Extracting climatic data from world clim website using preloaded coordinates from excel file (CSV).
 
+how to install apsimNGpy.
+
+
 Languages:
 +++++++++++++++++++++++++++
 English, Lusoga, Luganda, Kiswahili, and Runyakitara.
