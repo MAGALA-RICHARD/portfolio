@@ -7,8 +7,9 @@ Welcome to Richard Magala's home page!
 ====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
    Home <self>
    intro.rst
+   leadership.rst
