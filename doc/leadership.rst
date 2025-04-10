@@ -34,7 +34,10 @@ Leadership Experiences
 
 - **2024–Present**
   Student Representative – International Association for Landscape Ecology (IALE).
+
   Assist in planning and coordinating student-focused events at IALE-NA conferences (e.g., social events, poster sessions, career panels).
-  Maintain communication with student members via newsletters, emails, and social media.
-  Participate in IALE-NA board meetings, contribute to student policy discussions, and help identify future student representatives.
-  Represent student interests at IALE-NA meetings, conferences, and board discussions.
+
+Maintain communication with student members via newsletters, emails, and social media.
+
+Participate in IALE-NA board meetings, contribute to student policy discussions, and help identify future student representatives.
+Represent student interests at IALE-NA meetings, conferences, and board discussions.
