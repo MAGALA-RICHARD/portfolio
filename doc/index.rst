@@ -15,4 +15,4 @@ Welcome to Richard Magala's home page!
    activities.rst
    skills_experiences.rst
    pubs.rst
-   leadership.rst
+   leader.rst
