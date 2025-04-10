@@ -28,3 +28,15 @@ Magala, R. (2025) Analysis techniques for evaluating the conservation evidence g
 In preparation
 """"""""""""""""
 ApsimNGpy: An Open-Source Python Library for Advanced APSIM Agroecosystem Simulations. Available at: https://pypi.org/project/apsimNGpy/
+
+Mentions in the media
+"""""""""""""""""""""""""
+Point process analysis using spatstat package.
+
+Cropping a raster by a mask or an Esri polygon shapefile.
+
+Extracting climatic data from world clim website using preloaded coordinates from excel file (CSV).
+
+Languages:
++++++++++++++++++++++++++++
+English, Lusoga, Luganda, Kiswahili, and Runyakitara.
