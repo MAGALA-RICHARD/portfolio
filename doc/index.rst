@@ -1,4 +1,4 @@
-Welcome to Richard Magala's home page!
+Welcome to Richard Magala's Home Page!
 ====================================================
 
 .. toctree::
