@@ -1,5 +1,10 @@
 PERSONAL SUMMARY
 ==============================
+.. image:: 040125digital.jpg
+   :alt: My profile picture
+   :width: 200px
+   :align: center
+
 I am an agroecosystem and landscape modeler committed to leveraging scientific knowledge to contribute to sustainable and effective natural resource management.
 I am interested in using big data and models through advanced computer programming to guide decision-making and bolster environmental sustainability. I am competent in GIS, multi-objective optimization, point-process modeling, process-based modeling, and API programming.
 
