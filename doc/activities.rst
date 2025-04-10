@@ -1,4 +1,4 @@
-WORKSHOPS, TRAINING CONFERENCES, AND VOLUNTEER ACTIVITIES
+Workshops, Conference, and Volunteer Activities
 ==========================================================
 
 - **April 2023**
@@ -34,7 +34,7 @@ WORKSHOPS, TRAINING CONFERENCES, AND VOLUNTEER ACTIVITIES
   - Dynamic modeling for site-specific critical loads
   - Natural resource management approaches to air quality in Wales
 
-PREVIOUS SUCCESSFUL FUNDING APPLICATIONS AND SCHOLARSHIPS
+Previous Successful Funding Applications and Scholarships
 ==========================================================
 
 - **Commonwealth Scholarship** (£25,000), 2018–2019 – Liverpool Hope University
