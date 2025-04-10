@@ -1,6 +1,9 @@
 Publications
 ============================
 
+Published
+""""""""""""""""
+
 Behangana, M., Byaruhanga, A., Magala, R., Katumba, R., Kagurusi, A., Dendi, D., & Luiselli, L. (2023). An Analysis of the Herpetofauna Communities in Uganda's Last Moderately Altered, High-Altitude Wetlands. Wetlands, 43(7), 88.
 
 Behangana, M., Ayebare, S., Magala, R., Lukwago, W., Ssekisambu, R. S., Alezuyo, C., ... & Hughes, D. (2023).  Establishing baseline data for herpetofauna in western Uganda, an East African biodiversity hotspot: Reptile and amphibian diversity in Uganda. Herpetology Notes, 16, 773-789.
