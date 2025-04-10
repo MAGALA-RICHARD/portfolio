@@ -10,4 +10,5 @@ Welcome to Richard Magala's home page!
    :maxdepth: 2
    :caption: Contents:
 
+   Home <self>
    intro.rst
