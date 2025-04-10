@@ -12,6 +12,6 @@ Welcome to Richard Magala's home page!
 
    Home <self>
    intro.rst
-   leadership.md
+   leadership.rst
    activities.rst
    pubs.rst
