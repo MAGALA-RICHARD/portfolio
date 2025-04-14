@@ -1,4 +1,4 @@
-Academic Achievements 2010 to Present
+Academic Achievements
 ======================================
 
 2023
